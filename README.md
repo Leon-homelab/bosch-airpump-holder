@@ -9,6 +9,7 @@ Dit project bevat een op maat gemaakte 3D-geprinte houder voor een digitale Bosc
 - `Bosch-houder.stl`: 3D-model van de houder
 - `CE3V2_Bosch-houder.gcode`: Klaar-voor-gebruik G-code voor een Creality Ender 3 V2
 - `airpump.jpg`: Referentieafbeelding van de luchtpomp
+- 
 
 ## 🖨️ Printinformatie
 
